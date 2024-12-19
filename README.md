@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal2322" alt="kaushal2322" /></a> </p>
 
-- 🌱 I’m currently learning **Web3 & Blockchain**
+- 🌱 I’m currently learning **Kotlin && JackPackCompase**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Kotlin**
 
 - 📫 How to reach me **ppk03745@gmail.com**
 
